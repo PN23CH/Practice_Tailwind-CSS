@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'TH Sarabun New';
+    src: url('THSarabunNew-Bold.eot');
+    src: url('THSarabunNew-Bold.eot?#iefix') format('embedded-opentype'),
+        url('THSarabunNew-Bold.woff2') format('woff2'),
+        url('THSarabunNew-Bold.woff') format('woff'),
+        url('THSarabunNew-Bold.ttf') format('truetype'),
+        url('THSarabunNew-Bold.svg#THSarabunNew-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
